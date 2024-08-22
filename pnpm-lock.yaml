@@ -955,7 +955,7 @@ importers:
 packages:
 
   registry.nlark.com/@nodelib/fs.scandir/2.1.5:
-    resolution: {integrity: sha1-dhnC6yGyVIP20WdUi0z9WnSIw9U=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@nodelib/fs.scandir/download/@nodelib/fs.scandir-2.1.5.tgz}
+    resolution: {integrity: sha1-dhnC6yGyVIP20WdUi0z9WnSIw9U=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@nodelib/fs.scandir/download/@nodelib/fs.scandir-2.1.5.tgz}
     name: '@nodelib/fs.scandir'
     version: 2.1.5
     engines: {node: '>= 8'}
@@ -964,7 +964,7 @@ packages:
       run-parallel: registry.npmmirror.com/run-parallel/1.2.0
 
   registry.nlark.com/@webassemblyjs/ast/1.11.1:
-    resolution: {integrity: sha1-K/12fq4aaZb0Mv9+jX/HVnnAtqc=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/ast/download/@webassemblyjs/ast-1.11.1.tgz}
+    resolution: {integrity: sha1-K/12fq4aaZb0Mv9+jX/HVnnAtqc=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/ast/download/@webassemblyjs/ast-1.11.1.tgz}
     name: '@webassemblyjs/ast'
     version: 1.11.1
     dependencies:
@@ -972,46 +972,46 @@ packages:
       '@webassemblyjs/helper-wasm-bytecode': registry.nlark.com/@webassemblyjs/helper-wasm-bytecode/1.11.1
 
   registry.nlark.com/@webassemblyjs/floating-point-hex-parser/1.11.1:
-    resolution: {integrity: sha1-9sYacF8P16auyqToGY8j2dwXnk8=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/floating-point-hex-parser/download/@webassemblyjs/floating-point-hex-parser-1.11.1.tgz}
+    resolution: {integrity: sha1-9sYacF8P16auyqToGY8j2dwXnk8=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/floating-point-hex-parser/download/@webassemblyjs/floating-point-hex-parser-1.11.1.tgz}
     name: '@webassemblyjs/floating-point-hex-parser'
     version: 1.11.1
 
   registry.nlark.com/@webassemblyjs/helper-api-error/1.11.1:
-    resolution: {integrity: sha1-GmMZLYeI5cASgAump6RscFKI/RY=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/helper-api-error/download/@webassemblyjs/helper-api-error-1.11.1.tgz}
+    resolution: {integrity: sha1-GmMZLYeI5cASgAump6RscFKI/RY=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/helper-api-error/download/@webassemblyjs/helper-api-error-1.11.1.tgz}
     name: '@webassemblyjs/helper-api-error'
     version: 1.11.1
 
   registry.nlark.com/@webassemblyjs/helper-buffer/1.11.1:
-    resolution: {integrity: sha1-gyqQDrREiEzemnytRn+BUA9eWrU=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/helper-buffer/download/@webassemblyjs/helper-buffer-1.11.1.tgz}
+    resolution: {integrity: sha1-gyqQDrREiEzemnytRn+BUA9eWrU=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/helper-buffer/download/@webassemblyjs/helper-buffer-1.11.1.tgz}
     name: '@webassemblyjs/helper-buffer'
     version: 1.11.1
 
   registry.nlark.com/@webassemblyjs/helper-wasm-bytecode/1.11.1:
-    resolution: {integrity: sha1-8ygkHkHnsZnQsgwY6IQpxEMyleE=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/helper-wasm-bytecode/download/@webassemblyjs/helper-wasm-bytecode-1.11.1.tgz}
+    resolution: {integrity: sha1-8ygkHkHnsZnQsgwY6IQpxEMyleE=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/helper-wasm-bytecode/download/@webassemblyjs/helper-wasm-bytecode-1.11.1.tgz}
     name: '@webassemblyjs/helper-wasm-bytecode'
     version: 1.11.1
 
   registry.nlark.com/@webassemblyjs/ieee754/1.11.1:
-    resolution: {integrity: sha1-ljkp6bvQVwnn4SJDoJkYCBKZJhQ=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/ieee754/download/@webassemblyjs/ieee754-1.11.1.tgz}
+    resolution: {integrity: sha1-ljkp6bvQVwnn4SJDoJkYCBKZJhQ=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/ieee754/download/@webassemblyjs/ieee754-1.11.1.tgz}
     name: '@webassemblyjs/ieee754'
     version: 1.11.1
     dependencies:
       '@xtuc/ieee754': registry.npmmirror.com/@xtuc/ieee754/1.2.0
 
   registry.nlark.com/@webassemblyjs/leb128/1.11.1:
-    resolution: {integrity: sha1-zoFLRVdOk9drrh+yZEq5zdlSeqU=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/leb128/download/@webassemblyjs/leb128-1.11.1.tgz}
+    resolution: {integrity: sha1-zoFLRVdOk9drrh+yZEq5zdlSeqU=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/leb128/download/@webassemblyjs/leb128-1.11.1.tgz}
     name: '@webassemblyjs/leb128'
     version: 1.11.1
     dependencies:
       '@xtuc/long': registry.nlark.com/@xtuc/long/4.2.2
 
   registry.nlark.com/@webassemblyjs/utf8/1.11.1:
-    resolution: {integrity: sha1-0fi3ZDaefG5rrjUOhU3smlnwo/8=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/utf8/download/@webassemblyjs/utf8-1.11.1.tgz}
+    resolution: {integrity: sha1-0fi3ZDaefG5rrjUOhU3smlnwo/8=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/utf8/download/@webassemblyjs/utf8-1.11.1.tgz}
     name: '@webassemblyjs/utf8'
     version: 1.11.1
 
   registry.nlark.com/@webassemblyjs/wasm-edit/1.11.1:
-    resolution: {integrity: sha1-rSBuv0v5WgWM6YgKjAksXeyBk9Y=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/wasm-edit/download/@webassemblyjs/wasm-edit-1.11.1.tgz}
+    resolution: {integrity: sha1-rSBuv0v5WgWM6YgKjAksXeyBk9Y=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/wasm-edit/download/@webassemblyjs/wasm-edit-1.11.1.tgz}
     name: '@webassemblyjs/wasm-edit'
     version: 1.11.1
     dependencies:
@@ -1025,7 +1025,7 @@ packages:
       '@webassemblyjs/wast-printer': registry.nlark.com/@webassemblyjs/wast-printer/1.11.1
 
   registry.nlark.com/@webassemblyjs/wasm-gen/1.11.1:
-    resolution: {integrity: sha1-hsXqMEhJdZt9iMR6MvTwOa48j3Y=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/wasm-gen/download/@webassemblyjs/wasm-gen-1.11.1.tgz}
+    resolution: {integrity: sha1-hsXqMEhJdZt9iMR6MvTwOa48j3Y=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/wasm-gen/download/@webassemblyjs/wasm-gen-1.11.1.tgz}
     name: '@webassemblyjs/wasm-gen'
     version: 1.11.1
     dependencies:
@@ -1036,7 +1036,7 @@ packages:
       '@webassemblyjs/utf8': registry.nlark.com/@webassemblyjs/utf8/1.11.1
 
   registry.nlark.com/@webassemblyjs/wasm-opt/1.11.1:
-    resolution: {integrity: sha1-ZXtMIgL0zzs0X4pMZGHIwkGJhfI=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/wasm-opt/download/@webassemblyjs/wasm-opt-1.11.1.tgz}
+    resolution: {integrity: sha1-ZXtMIgL0zzs0X4pMZGHIwkGJhfI=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/wasm-opt/download/@webassemblyjs/wasm-opt-1.11.1.tgz}
     name: '@webassemblyjs/wasm-opt'
     version: 1.11.1
     dependencies:
@@ -1046,7 +1046,7 @@ packages:
       '@webassemblyjs/wasm-parser': registry.nlark.com/@webassemblyjs/wasm-parser/1.11.1
 
   registry.nlark.com/@webassemblyjs/wasm-parser/1.11.1:
-    resolution: {integrity: sha1-hspzRTT0F+m9PGfHocddi+QfsZk=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/wasm-parser/download/@webassemblyjs/wasm-parser-1.11.1.tgz}
+    resolution: {integrity: sha1-hspzRTT0F+m9PGfHocddi+QfsZk=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/wasm-parser/download/@webassemblyjs/wasm-parser-1.11.1.tgz}
     name: '@webassemblyjs/wasm-parser'
     version: 1.11.1
     dependencies:
@@ -1058,7 +1058,7 @@ packages:
       '@webassemblyjs/utf8': registry.nlark.com/@webassemblyjs/utf8/1.11.1
 
   registry.nlark.com/@webassemblyjs/wast-printer/1.11.1:
-    resolution: {integrity: sha1-0Mc77ajuxUJvEK6O9VzuXnCEwvA=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@webassemblyjs/wast-printer/download/@webassemblyjs/wast-printer-1.11.1.tgz}
+    resolution: {integrity: sha1-0Mc77ajuxUJvEK6O9VzuXnCEwvA=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@webassemblyjs/wast-printer/download/@webassemblyjs/wast-printer-1.11.1.tgz}
     name: '@webassemblyjs/wast-printer'
     version: 1.11.1
     dependencies:
@@ -1066,114 +1066,114 @@ packages:
       '@xtuc/long': registry.nlark.com/@xtuc/long/4.2.2
 
   registry.nlark.com/@xtuc/long/4.2.2:
-    resolution: {integrity: sha1-0pHGpOl5ibXGHZrPOWrk/hM6cY0=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/@xtuc/long/download/@xtuc/long-4.2.2.tgz}
+    resolution: {integrity: sha1-0pHGpOl5ibXGHZrPOWrk/hM6cY0=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/@xtuc/long/download/@xtuc/long-4.2.2.tgz}
     name: '@xtuc/long'
     version: 4.2.2
 
   registry.nlark.com/batch/0.6.1:
-    resolution: {integrity: sha1-3DQxT05nkxgJP8dgJyUl+UvyXBY=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/batch/download/batch-0.6.1.tgz}
+    resolution: {integrity: sha1-3DQxT05nkxgJP8dgJyUl+UvyXBY=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/batch/download/batch-0.6.1.tgz}
     name: batch
     version: 0.6.1
 
   registry.nlark.com/bser/2.1.1:
-    resolution: {integrity: sha1-5nh9og7OnQeZhTPP2d5vXDj0vAU=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/bser/download/bser-2.1.1.tgz}
+    resolution: {integrity: sha1-5nh9og7OnQeZhTPP2d5vXDj0vAU=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/bser/download/bser-2.1.1.tgz}
     name: bser
     version: 2.1.1
     dependencies:
       node-int64: registry.npmmirror.com/node-int64/0.4.0
 
   registry.nlark.com/concat-map/0.0.1:
-    resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/concat-map/download/concat-map-0.0.1.tgz}
+    resolution: {integrity: sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/concat-map/download/concat-map-0.0.1.tgz}
     name: concat-map
     version: 0.0.1
 
   registry.nlark.com/cookie-signature/1.0.6:
-    resolution: {integrity: sha1-4wOogrNCzD7oylE6eZmXNNqzriw=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/cookie-signature/download/cookie-signature-1.0.6.tgz}
+    resolution: {integrity: sha1-4wOogrNCzD7oylE6eZmXNNqzriw=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/cookie-signature/download/cookie-signature-1.0.6.tgz}
     name: cookie-signature
     version: 1.0.6
 
   registry.nlark.com/easy-stack/1.0.1:
-    resolution: {integrity: sha1-iv5CZGJpiMq7EfPHBMzQyDVBEGY=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/easy-stack/download/easy-stack-1.0.1.tgz}
+    resolution: {integrity: sha1-iv5CZGJpiMq7EfPHBMzQyDVBEGY=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/easy-stack/download/easy-stack-1.0.1.tgz}
     name: easy-stack
     version: 1.0.1
     engines: {node: '>=6.0.0'}
     dev: true
 
   registry.nlark.com/ee-first/1.1.1:
-    resolution: {integrity: sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/ee-first/download/ee-first-1.1.1.tgz}
+    resolution: {integrity: sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/ee-first/download/ee-first-1.1.1.tgz}
     name: ee-first
     version: 1.1.1
 
   registry.nlark.com/event-pubsub/4.3.0:
-    resolution: {integrity: sha1-9o2Ba8KfHsAsU53FjI3UDOcss24=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/event-pubsub/download/event-pubsub-4.3.0.tgz}
+    resolution: {integrity: sha1-9o2Ba8KfHsAsU53FjI3UDOcss24=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/event-pubsub/download/event-pubsub-4.3.0.tgz}
     name: event-pubsub
     version: 4.3.0
     engines: {node: '>=4.0.0'}
     dev: true
 
   registry.nlark.com/forwarded/0.2.0:
-    resolution: {integrity: sha1-ImmTZCiq1MFcfr6XeahL8LKoGBE=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/forwarded/download/forwarded-0.2.0.tgz}
+    resolution: {integrity: sha1-ImmTZCiq1MFcfr6XeahL8LKoGBE=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/forwarded/download/forwarded-0.2.0.tgz}
     name: forwarded
     version: 0.2.0
     engines: {node: '>= 0.6'}
 
   registry.nlark.com/fresh/0.5.2:
-    resolution: {integrity: sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/fresh/download/fresh-0.5.2.tgz}
+    resolution: {integrity: sha1-PYyt2Q2XZWn6g1qx+OSyOhBWBac=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/fresh/download/fresh-0.5.2.tgz}
     name: fresh
     version: 0.5.2
     engines: {node: '>= 0.6'}
 
   registry.nlark.com/js-message/1.0.7:
-    resolution: {integrity: sha1-+93QU8ekcCGHG7iyyVOXzBfCDkc=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/js-message/download/js-message-1.0.7.tgz}
+    resolution: {integrity: sha1-+93QU8ekcCGHG7iyyVOXzBfCDkc=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/js-message/download/js-message-1.0.7.tgz}
     name: js-message
     version: 1.0.7
     engines: {node: '>=0.6.0'}
     dev: true
 
   registry.nlark.com/mdn-data/2.0.14:
-    resolution: {integrity: sha1-cRP8QoGRfWPOKbQ0RvcB5owlulA=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/mdn-data/download/mdn-data-2.0.14.tgz}
+    resolution: {integrity: sha1-cRP8QoGRfWPOKbQ0RvcB5owlulA=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/mdn-data/download/mdn-data-2.0.14.tgz}
     name: mdn-data
     version: 2.0.14
 
   registry.nlark.com/mdn-data/2.0.4:
-    resolution: {integrity: sha1-aZs8OKxvHXKAkaZGULZdOIUC/Vs=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/mdn-data/download/mdn-data-2.0.4.tgz}
+    resolution: {integrity: sha1-aZs8OKxvHXKAkaZGULZdOIUC/Vs=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/mdn-data/download/mdn-data-2.0.4.tgz}
     name: mdn-data
     version: 2.0.4
 
   registry.nlark.com/media-typer/0.3.0:
-    resolution: {integrity: sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/media-typer/download/media-typer-0.3.0.tgz}
+    resolution: {integrity: sha1-hxDXrwqmJvj/+hzgAWhUUmMlV0g=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/media-typer/download/media-typer-0.3.0.tgz}
     name: media-typer
     version: 0.3.0
     engines: {node: '>= 0.6'}
 
   registry.nlark.com/merge-descriptors/1.0.1:
-    resolution: {integrity: sha1-sAqqVW3YtEVoFQ7J0blT8/kMu2E=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/merge-descriptors/download/merge-descriptors-1.0.1.tgz}
+    resolution: {integrity: sha1-sAqqVW3YtEVoFQ7J0blT8/kMu2E=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/merge-descriptors/download/merge-descriptors-1.0.1.tgz}
     name: merge-descriptors
     version: 1.0.1
 
   registry.nlark.com/setprototypeof/1.1.0:
-    resolution: {integrity: sha1-0L2FU2iHtv58DYGMuWLZ2RxU5lY=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/setprototypeof/download/setprototypeof-1.1.0.tgz}
+    resolution: {integrity: sha1-0L2FU2iHtv58DYGMuWLZ2RxU5lY=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/setprototypeof/download/setprototypeof-1.1.0.tgz}
     name: setprototypeof
     version: 1.1.0
 
   registry.nlark.com/setprototypeof/1.2.0:
-    resolution: {integrity: sha1-ZsmiSnP5/CjL5msJ/tPTPcrxtCQ=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/setprototypeof/download/setprototypeof-1.2.0.tgz}
+    resolution: {integrity: sha1-ZsmiSnP5/CjL5msJ/tPTPcrxtCQ=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/setprototypeof/download/setprototypeof-1.2.0.tgz}
     name: setprototypeof
     version: 1.2.0
 
   registry.nlark.com/tmpl/1.0.5:
-    resolution: {integrity: sha1-hoPguQK7nCDE9ybjwLafNlGMB8w=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/tmpl/download/tmpl-1.0.5.tgz}
+    resolution: {integrity: sha1-hoPguQK7nCDE9ybjwLafNlGMB8w=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/tmpl/download/tmpl-1.0.5.tgz}
     name: tmpl
     version: 1.0.5
 
   registry.nlark.com/utils-merge/1.0.1:
-    resolution: {integrity: sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/utils-merge/download/utils-merge-1.0.1.tgz}
+    resolution: {integrity: sha1-n5VxD1CiZ5R7LMwSR0HBAoQn5xM=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/utils-merge/download/utils-merge-1.0.1.tgz}
     name: utils-merge
     version: 1.0.1
     engines: {node: '>= 0.4.0'}
 
   registry.nlark.com/yn/3.1.1:
-    resolution: {integrity: sha1-HodAGgnXZ8HV6rJqbkwYUYLS61A=, registry: https://registry.npm.taobao.org/, tarball: https://registry.nlark.com/yn/download/yn-3.1.1.tgz}
+    resolution: {integrity: sha1-HodAGgnXZ8HV6rJqbkwYUYLS61A=, registry: https://registry.npm.taobao.org/, tarball: https://registry.npmmirror.com/yn/download/yn-3.1.1.tgz}
     name: yn
     version: 3.1.1
     engines: {node: '>=6'}
