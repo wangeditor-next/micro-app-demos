@@ -13,6 +13,7 @@
     </a-divider>
     <counter />
   </a-space>
+  <BasicEditor></BasicEditor>
 </template>
 
 <script lang="ts">
@@ -23,6 +24,7 @@ export default {
 
 <script lang="ts" setup>
 import { useUserStore } from '@/stores/user'
+import BasicEditor from './components/BasicEditor.vue'
 
 const user = useUserStore()
 </script>

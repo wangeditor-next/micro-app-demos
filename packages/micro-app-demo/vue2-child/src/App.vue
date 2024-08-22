@@ -7,11 +7,13 @@
         </keep-alive>
       </router-view>
     </a-config-provider>
+    <my-editor></my-editor>
   </div>
 </template>
 
 <script lang="ts">
 import { ConfigProvider } from 'ant-design-vue'
+import MyEditor from './components/MyEditor.vue'
 import type Vue from 'vue'
 
 export default {
@@ -24,7 +26,8 @@ export default {
     }
   },
   components: {
-    [ConfigProvider.name]: ConfigProvider
+    [ConfigProvider.name]: ConfigProvider,
+    MyEditor
   }
 }
 </script>
