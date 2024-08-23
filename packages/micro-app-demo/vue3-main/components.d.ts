@@ -34,6 +34,7 @@ declare module '@vue/runtime-core' {
     ATextarea: typeof import('ant-design-vue/es')['Textarea']
     ATypographyText: typeof import('ant-design-vue/es')['TypographyText']
     ATypographyTitle: typeof import('ant-design-vue/es')['TypographyTitle']
+    BasicEditor: typeof import('./src/components/BasicEditor.vue')['default']
     Counter: typeof import('./src/components/Counter.vue')['default']
     MessageTrigger: typeof import('./src/components/MessageTrigger.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']

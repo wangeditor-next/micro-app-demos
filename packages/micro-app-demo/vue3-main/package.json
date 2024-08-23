@@ -11,7 +11,7 @@
     },
     "dependencies": {
         "@ant-design/icons-vue": "^6.1.0",
-        "@micro-zoe/micro-app": "^1.0.0-alpha.9",
+        "@micro-zoe/micro-app": "^1.0.0-rc.6",
         "@wangeditor-next/editor": "^5.5.0",
         "@wangeditor-next/editor-for-vue": "^5.1.14",
         "ant-design-vue": "^3.2.12",
