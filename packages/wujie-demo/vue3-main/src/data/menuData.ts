@@ -48,6 +48,24 @@ export const menuList: Menu[] = [
     ]
   },
   {
+    key: 22,
+    name: 'Vue3子应用',
+    path: 'vue3App',
+    component: 'Layout.vue',
+    children: [
+      {
+        key: 221,
+        path: 'communication-test',
+        name: 'Vue3通信测试'
+      },
+      {
+        key: 222,
+        path: 'navigate-view',
+        name: '子应用跳转测试'
+      }
+    ]
+  },
+  {
     key: 3,
     name: 'React18子应用',
     path: 'reactApp',
