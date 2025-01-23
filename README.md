@@ -1,3 +1,4 @@
+## 用于复现 [wangeditor-next](https://github.com/cycleccc/wangEditor-next) 微前端相关的 bug ##
 # 微前端框架示例汇总
 
 该仓库集合了以[qiankun](https://qiankun.umijs.org/zh)、[MicroApp](https://micro-zoe.github.io/micro-app/)、[icestark](https://micro-frontends.ice.work/)、[wujie](https://wujie-micro.github.io/doc/)、[Garfish](https://www.garfishjs.org/)为基础实现的多种微前端示例。
